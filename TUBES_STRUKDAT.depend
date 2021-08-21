@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1587391704 source:c:\users\felix\onedrive\dokumen\kuliahkuliahclub\program_cpp\test\tubes_strukdat\artikel.cpp
+	"artikel.h"
+
+1587467931 c:\users\felix\onedrive\dokumen\kuliahkuliahclub\program_cpp\test\tubes_strukdat\artikel.h
+	<iostream>
+
+1587467802 source:c:\users\felix\onedrive\dokumen\kuliahkuliahclub\program_cpp\test\tubes_strukdat\main.cpp
+	<iostream>
+	"artikel.h"
+	"relasi.h"
+	"tag.h"
+
+1587467981 source:c:\users\felix\onedrive\dokumen\kuliahkuliahclub\program_cpp\test\tubes_strukdat\tag.cpp
+	"tag.h"
+
+1587386961 source:c:\users\felix\onedrive\dokumen\kuliahkuliahclub\program_cpp\test\tubes_strukdat\relasi.cpp
+	"relasi.h"
+
+1587386887 c:\users\felix\onedrive\dokumen\kuliahkuliahclub\program_cpp\test\tubes_strukdat\relasi.h
+	<iostream>
+	"tag.h"
+	"artikel.h"
+
+1587467952 c:\users\felix\onedrive\dokumen\kuliahkuliahclub\program_cpp\test\tubes_strukdat\tag.h
+	<iostream>
+
+1587708228 source:c:\users\felix\onedrive\dokumen\kuliahkuliahclub\program_cpp\tubes_strukdat\artikel.cpp
+	"artikel.h"
+
+1587709604 c:\users\felix\onedrive\dokumen\kuliahkuliahclub\program_cpp\tubes_strukdat\artikel.h
+	<iostream>
+
+1588048289 source:c:\users\felix\onedrive\dokumen\kuliahkuliahclub\program_cpp\tubes_strukdat\main.cpp
+	<iostream>
+	"artikel.h"
+	"relasi.h"
+	"tag.h"
+
+1587969560 c:\users\felix\onedrive\dokumen\kuliahkuliahclub\program_cpp\tubes_strukdat\relasi.h
+	<iostream>
+	"tag.h"
+	"artikel.h"
+
+1587981965 c:\users\felix\onedrive\dokumen\kuliahkuliahclub\program_cpp\tubes_strukdat\tag.h
+	<iostream>
+
+1588048069 source:c:\users\felix\onedrive\dokumen\kuliahkuliahclub\program_cpp\tubes_strukdat\relasi.cpp
+	"relasi.h"
+
+1588047863 source:c:\users\felix\onedrive\dokumen\kuliahkuliahclub\program_cpp\tubes_strukdat\tag.cpp
+	"tag.h"
+
